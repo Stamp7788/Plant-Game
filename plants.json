@@ -1,0 +1,79 @@
+{
+  "plants" [
+  {
+    "name": "Blue Grass",
+    "type": "Grass",
+    "cost": 1,
+    "rarity": "Common",
+    "breedable": false,
+    "description": "This is the most common grass"
+  }
+  {
+    "name": "Scutch Grass",
+    "type": "Grass",
+    "cost": 1,
+    "rarity": "Common",
+    "breedable": false,
+    "description": "Scutch Grass, or Bermudagrass, is a grass species that is native to the Bermuda Triangle, a region in the Caribbean Sea. It is a common grass that is often used for farming and gardening."
+  }
+  {
+    "name": "Perennial  Grass",
+    "type": "Grass",
+    "cost": 1,
+    "rarity": "Common",
+    "breedable": false,
+    "description": "Perennial Grass, or Rye Grass, is a grass species that is native to the Americas. It is a common grass that is often used for farming and gardening."
+  }
+  {
+    "name": "Bahia Grass",
+    "type": "Grass",
+    "cost": 1,
+    "rarity": "Common",
+    "breedable": false,
+    "description": "Bahia Grass is a grass species that is native to the Bahia region of Brazil. It is a common grass that is used on roadsides due to its high growth rate and low maintenance requirements. It is also difficult to mow."
+  }
+  {
+    "name": "Fescue Grass",
+    "type": "Grass",
+    "cost": 1,
+    "rarity": "Common",
+    "breedable": false,
+    "description": "Fescue Grass is native to Europe and good for colder seasons. It is a common grass that is used for farming and gardening."
+  }
+  {
+    "name": "Lemon Grass",
+    "type": "Grass",
+    "cost": 1,
+    "rarity": "Common",
+    "breedable": false,
+    "description": "A fragrant tropical grass which yields an oil that smells of lemon. It is widely used in Asian cooking and in perfumery and medicine."
+  }
+  {
+    "name": "Lilyturfs",
+    "type": "Grass",
+    "cost": 1,
+    "rarity": "Common",
+    "breedable": false,
+    "description": "Lilyturfs, also called Monkey Grass, are a type of grass that is native to the Americas. They are commonly used for farming and gardening."
+  }
+  {
+    "name": "Bamboo",
+    "type": "Grass",
+    "cost": 1,
+    "rarity": "Common",
+    "breedable": false,
+    "description": "Bamboo is a tall grass that is native to China, and later intoroduced to other parts of Asia. It is a common grass that is used for farming and garden."
+  }
+  {
+    "name": "Wheat",
+    "type": "Grain",
+    "cost": 5,
+    "rarity": "Common",
+    "breedable": false,
+    "description": "Wheat is a staple food crop in many parts of the world. It is a common crop that is used for farming."
+  }
+
+    
+    
+  ]
+}
