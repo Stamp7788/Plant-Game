@@ -172,7 +172,7 @@ body {
   width: 50vw;
   height: 80vh;
   top: 10vh;
-  background-color: #ffffff;
+  background-color: #999999;
 }
 
 #townMenu {
@@ -184,7 +184,7 @@ body {
   width: 50vw;
   height: 80vh;
   top: 10vh;
-  background-color: #ffffff;
+  background-color: #777777;
 }
 
 #ghMenu {
@@ -196,7 +196,7 @@ body {
   width: 50vw;
   height: 80vh;
   top: 10vh;
-  background-color: #ffffff;
+  background-color: #555555;
 }
 
 #shedMenu {
@@ -208,7 +208,7 @@ body {
   width: 50vw;
   height: 80vh;
   top: 10vh;
-  background-color: #ffffff;
+  background-color: #333333;
 }
 
 #monasteryMenu {
@@ -220,5 +220,5 @@ body {
   width: 50vw;
   height: 80vh;
   top: 10vh;
-  background-color: #ffffff;
+  background-color: #cccccc;
 }
