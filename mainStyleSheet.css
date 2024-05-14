@@ -49,7 +49,7 @@ body {
   
 }
 
-#inventoryOption {
+#invOption {
   position: relative;
   width: 100%;
   height: 20%;
@@ -60,7 +60,7 @@ body {
   overflow: clip;
 }
 
-#inventoryOption:hover {
+#invOption:hover {
   background-color: #796cc2;
 }
 
@@ -80,7 +80,7 @@ body {
   ;
 }
 
-#greenhouseOption {
+#ghOption {
   position: relative;
   width: 100%;
   height: 20%;
@@ -91,7 +91,7 @@ body {
   overflow: clip;
 }
 
-#greenhouseOption:hover {
+#ghOption:hover {
   background-color: #336332;
 }
 
@@ -163,9 +163,9 @@ body {
   background-color: #409011;
 }
 
-#inventoryMenu {
+#invMenu {
   position: absolute;
-  z-index: 3;
+  z-index: 5; /* need to edit this back when done!! */
   margin: 0;
   padding: 0;
   left: 15vw;
@@ -187,9 +187,9 @@ body {
   background-color: #ffffff;
 }
 
-#greenhouseMenu {
+#ghMenu {
   position: absolute;
-  z-index: 5; /* need to edit this back when done!! */
+  z-index: 3; 
   margin: 0;
   padding: 0;
   left: 15vw;
