@@ -1,0 +1,7 @@
+#inv-items-wrapper > .slot {
+    display: grid;
+
+
+    grid-template-columns: 20% 20% 20% 20% 20%;
+
+}
